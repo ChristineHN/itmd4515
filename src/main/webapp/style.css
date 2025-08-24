@@ -1,0 +1,20 @@
+main {
+    background-color: lightsalmon;
+    border: 15px solid lightblue;
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+    color: navy;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+}
+
+li {
+    text-align: left;
+}
